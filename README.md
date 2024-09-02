@@ -2,7 +2,7 @@
 ## Adds a Typing like animation with the output from the Action.
 ⭐Powereb by Streamer.bot: <https://streamer.bot> ⭐
 
-* You have to setup the Ai Chat Command first 🔽
+### You have to setup the Ai Chat Command first 🔽
  *Follow each step carefully* :  <https://docs.streamer.bot/get-started/examples/ollama-chat-command>
   
 * Web socket Server required on 8080 PORT!  
