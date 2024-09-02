@@ -13,7 +13,7 @@
  ![image](https://github.com/user-attachments/assets/3c2bb7df-ab69-4346-a357-7f1d3d165728)
 
 * Cat and TTS not included, you have to set up Speaker.bot with a Voice Alias to get audio!
-* Overlay it automatically hides after 6 secods once the text is done typing!
+* Overlay it automatically hides after 6 seconds once the text is done typing!
   
 https://github.com/user-attachments/assets/51c8c7ce-66e8-4804-88e2-7d3f6eae5bbf
 
