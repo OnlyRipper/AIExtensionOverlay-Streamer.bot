@@ -11,7 +11,8 @@
 * Import the action in Streamer.bot: [Copy ME.txt](https://github.com/user-attachments/files/16832347/Copy.ME.txt)
 
 * Go through each comment and check if you have to replace filds!
-  *Add a blocking queue to the action*
+
+*Add a blocking queue to the action ❗*
 
  ![image](https://github.com/user-attachments/assets/3c2bb7df-ab69-4346-a357-7f1d3d165728)
 
