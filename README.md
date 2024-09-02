@@ -8,6 +8,8 @@
 * Web socket Server required on 8080 PORT!  
 * Download the .rar file and extract the folder anywhere in your PC.
 * Add the index.html file as a Browser Source in OBS - You will need the Scene and Source name later in Streamer.bot - Sub-Actions.
+* Import the action in Streamer.bot: [Copy ME.txt](https://github.com/user-attachments/files/16832347/Copy.ME.txt)
+
 * Go through each comment and check if you have to replace filds!
 
  ![image](https://github.com/user-attachments/assets/3c2bb7df-ab69-4346-a357-7f1d3d165728)
