@@ -6,7 +6,7 @@
  *Follow each step carefully* :  <https://docs.streamer.bot/get-started/examples/ollama-chat-command>
   
 * Web socket Server required on 8080 PORT!  
-* Download the zip file and extract the folder anywhere in your PC.
+* Download the .rar file and extract the folder anywhere in your PC.
 * Add the index.html file as a Browser Source in OBS - You will need the Scene and Source name later in Streamer.bot - Sub-Actions.
 * Go through each comment and check if you have to replace filds!
 ### *Somewhere over 300 to 400 characters won't be showed on the screen (no space available but it won't overflow!)*
